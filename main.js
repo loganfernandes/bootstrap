@@ -12,4 +12,4 @@ function print(text) {
     const line = document.createElement("div");
     line.textContent = text;
     output.appendChild(line);
-};
+}
