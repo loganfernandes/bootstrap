@@ -45,7 +45,7 @@ Done. Page, echo terminal, repo, remote. Skip.
 - [x] Static page with input and output area
 - [x] Enter key echoes typed text to the screen
 - [x] Repo initialized, committed, synced to GitHub
-- [ ] GitHub Pages enabled, public URL confirmed working
+- [x] GitHub Pages enabled, public URL confirmed working
 
 That last one is worth doing tonight if you haven't. Deploying on day one means deploying is never scary later.
 
