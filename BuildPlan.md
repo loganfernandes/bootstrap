@@ -34,7 +34,7 @@ Everything else is v1.1+. Write the ideas down, don't build them.
 - No fully explorable second machine; remote paths are readable, not livable
 - No multiple endings; one ending, done well
 - No natural-language parser; verb plus one argument, terminal-style, forever
-- No procedural or generated content; every word is hand-authored
+- No procedural or generated content; every word is hand-authored.
 
 ---
 
