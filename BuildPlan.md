@@ -24,7 +24,7 @@ Scope creep is what kills first projects, so here is the finish line, defined no
 
 That's it. Not four acts. Not every mechanic we designed. One act that a stranger can click into and come out of having felt something.
 
-Everything else is v1.1+. Write the ideas down, don't build them.
+Everything else is v1.1+. Write the ideas down, don't build them
 
 ### Explicit non-goals for v1
 
